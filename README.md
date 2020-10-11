@@ -3,26 +3,26 @@ askmore is a question and answer forum where people can share and gain knowledge
 the site inspiration was gotten from stackoverflow. 
 it was developed using html,css,bootstrap and php
 
-#Sign In
+# Sign In
 
 ![Sign-In](screenshots/signin.PNG)
 
-#Sign Up
+# Sign Up
 
 ![Sign-up](screenshots/signup.PNG)
 
-#Dashboard
+# Dashboard
 
 ![Dashboard](screenshots/dashboard.PNG)
 
-#Edit Account
+# Edit Account
 
 ![edit account](screenshots/editaccount.PNG)
 
-#Asking Question
+# Asking Question
 
 ![asking question](screenshots/askquestion.PNG)
 
-#Answering Question
+# Answering Question
 
 ![viewing question](screenshots/viewquestion.PNG)
